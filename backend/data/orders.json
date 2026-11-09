@@ -1,0 +1,123 @@
+[
+  {
+    "id": "FNF-9021",
+    "customer": {
+      "name": "Kiran Kumar",
+      "phone": "9848022338",
+      "address": "Plot 42, Green Avenue, Near Bus Depot, Shamshabad",
+      "landmark": "Near Hanuman Temple",
+      "timeSlot": "Morning (7:00 AM - 10:00 AM)"
+    },
+    "items": [
+      {
+        "id": "veg-1",
+        "name": "Tomato",
+        "teluguName": "టమాట",
+        "price": 38,
+        "quantity": 2,
+        "unit": "1 kg",
+        "total": 76
+      },
+      {
+        "id": "leaf-3",
+        "name": "Puntikoora (Gongura / Sorrel)",
+        "teluguName": "పుంటికూర (గోంగూర)",
+        "price": 20,
+        "quantity": 3,
+        "unit": "1 bunch (కట్ట)",
+        "total": 60
+      },
+      {
+        "id": "veg-10",
+        "name": "Nalla Mirchi (Dark Green Chilli)",
+        "teluguName": "నల్ల మిర్చి",
+        "price": 60,
+        "quantity": 0.5,
+        "unit": "1 kg",
+        "total": 30
+      },
+      {
+        "id": "veg-4",
+        "name": "Bendakaya (Ladies Finger)",
+        "teluguName": "బెండకాయ",
+        "price": 45,
+        "quantity": 1,
+        "unit": "1 kg",
+        "total": 45
+      }
+    ],
+    "subtotal": 211,
+    "deliveryFee": 30,
+    "total": 241,
+    "paymentMethod": "Cash on Delivery",
+    "paymentStatus": "Pending",
+    "status": "Confirmed",
+    "notes": "Please select medium-sized tomatoes.",
+    "createdAt": "2026-11-09T08:30:00.000Z"
+  },
+  {
+    "id": "FNF-9022",
+    "customer": {
+      "name": "Sita Lakshmi",
+      "phone": "9121456789",
+      "address": "Flat 304, Srinivasa Residency, Airport Road, Shamshabad",
+      "landmark": "Opposite SBI Bank",
+      "timeSlot": "Evening (5:00 PM - 8:30 PM)"
+    },
+    "items": [
+      {
+        "id": "leaf-1",
+        "name": "Palakoora (Spinach)",
+        "teluguName": "పాలకూర",
+        "price": 15,
+        "quantity": 2,
+        "unit": "1 bunch (కట్ట)",
+        "total": 30
+      },
+      {
+        "id": "leaf-7",
+        "name": "Kothimeeru (Coriander)",
+        "teluguName": "కొత్తిమీరు",
+        "price": 15,
+        "quantity": 2,
+        "unit": "1 bunch (కట్ట)",
+        "total": 30
+      },
+      {
+        "id": "veg-2",
+        "name": "Aaloogadda (Potato)",
+        "teluguName": "ఆలుగడ్డ",
+        "price": 35,
+        "quantity": 2,
+        "unit": "1 kg",
+        "total": 70
+      },
+      {
+        "id": "veg-3",
+        "name": "Ulligadda (Onion)",
+        "teluguName": "ఉల్లిగడ్డ",
+        "price": 42,
+        "quantity": 3,
+        "unit": "1 kg",
+        "total": 126
+      },
+      {
+        "id": "veg-17",
+        "name": "Munagakaya (Drumstick)",
+        "teluguName": "మునగకాయ",
+        "price": 15,
+        "quantity": 4,
+        "unit": "1 piece",
+        "total": 60
+      }
+    ],
+    "subtotal": 316,
+    "deliveryFee": 0,
+    "total": 316,
+    "paymentMethod": "UPI / QR",
+    "paymentStatus": "Paid",
+    "status": "Out for Delivery",
+    "notes": "Call upon arrival.",
+    "createdAt": "2026-11-09T10:15:00.000Z"
+  }
+]

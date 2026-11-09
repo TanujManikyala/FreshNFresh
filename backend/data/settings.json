@@ -1,0 +1,18 @@
+{
+  "storeName": "Fresh & Fresh - Sri Lakshmi Narsimha Vegetables",
+  "tagline": "Where Freshness Matters - Since 2005",
+  "phone": "8367089034",
+  "whatsapp": "8367089034",
+  "upiId": "8367089034@upi",
+  "location": "Shamshabad, Hyderabad, Telangana",
+  "deliveryFee": 30,
+  "freeDeliveryAbove": 299,
+  "minOrder": 100,
+  "announcement": "🌱 Special Morning Fresh Arrival: Farm-direct tender vegetables & authentic Telugu leafy greens just arrived! Home delivery across Shamshabad.",
+  "openingHours": "6:00 AM - 9:30 PM (All 7 Days)",
+  "deliverySlots": [
+    "Morning (7:00 AM - 10:00 AM)",
+    "Afternoon (12:00 PM - 3:00 PM)",
+    "Evening (5:00 PM - 8:30 PM)"
+  ]
+}

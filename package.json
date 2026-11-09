@@ -1,0 +1,15 @@
+{
+  "name": "fresh-n-fresh",
+  "version": "1.0.0",
+  "description": "Fresh & Fresh - Sri Lakshmi Narsimha Vegetables E-Commerce Store & Admin Portal",
+  "scripts": {
+    "server": "node backend/server.js",
+    "client": "npm --prefix frontend run dev",
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "build": "npm --prefix frontend run build",
+    "start": "node backend/server.js"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
