@@ -33,3 +33,4 @@ export function openWhatsAppChat(storePhone = '8367089034', defaultText = 'Hello
   const encoded = encodeURIComponent(defaultText);
   window.open(`https://wa.me/91${cleanPhone}?text=${encoded}`, '_blank');
 }
+

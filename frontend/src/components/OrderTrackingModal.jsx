@@ -238,3 +238,4 @@ export default function OrderTrackingModal({ isOpen, onClose, initialQuery = '',
     </div>
   );
 }
+

@@ -162,3 +162,4 @@ export default function ProductModal({ product, onClose, onAddToCart, cartItem, 
     </div>
   );
 }
+

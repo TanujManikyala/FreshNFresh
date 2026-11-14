@@ -99,3 +99,4 @@ export default function Hero({ onExploreClick, onOpenMenuBoard, settings }) {
     </section>
   );
 }
+

@@ -19,8 +19,12 @@ import {
   Eye,
   AlertCircle,
   Sparkles,
-  ExternalLink
+  ExternalLink,
+  Copy,
+  Printer,
+  Share2
 } from 'lucide-react';
+import PrintableInvoice from './PrintableInvoice';
 
 export default function AdminPortal({
   adminToken,
@@ -1172,3 +1176,4 @@ export default function AdminPortal({
     </div>
   );
 }
+

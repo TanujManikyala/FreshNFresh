@@ -156,3 +156,4 @@ export default function Footer({ onOpenAdmin, onOpenTracking, onOpenMenuBoard, s
     </footer>
   );
 }
+
